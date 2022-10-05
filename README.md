@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Golc<br>👀 I’m interested in software development<br>🌱 I’m currently learning HTML/CSS, Javascript<br>💞️ I’m looking to collaborate on really anything!<br>📫 How to reach me cgoldsmith6942@gmail.com, twitter @CarltonKI5FQR
+👋 Hi, I’m Carlton<br>👀 I’m interested in software development<br>🌱 I’m currently learning HTML/CSS, Javascript<br>💞️ I’m looking to collaborate on really anything!<br>📫 Shoot me an email on my Linkedin or twitter!
 
 
 ## 🌐 Socials:
